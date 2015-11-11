@@ -51,6 +51,6 @@ plugins=(git django github history history-substring-search osx python ssh-agent
 ZSH_THEME="agnoster"
 
 # To hide the “user@hostname” info when you’re logged in as yourself on your local machine.
-DEFAULT_USER="kyle"
+DEFAULT_USER="kylerohr"
 
 ssh-add

@@ -40,10 +40,10 @@ echo "Updating some tools..."
 echo "Installing essential software..."
   #export HOMEBREW_CASK_OPTS="--appdir=/Applications"
   brew cask install dropbox
-  brew cask install the-unarchiver
-  brew cask install google-chrome
+  #brew cask install the-unarchiver
+  #brew cask install google-chrome
   brew cask install vlc
-  brew cask install spotify
+  #brew cask install spotify
   brew cask install bartender
   brew cask install bettertouchtool
   brew cask install coconutbattery
@@ -55,7 +55,7 @@ echo "Installing dev tools..."
   brew cask install x-quartz
   brew install imagemagick
   brew install graphviz
-  brew cask install sourcetree
+  #brew cask install sourcetree
   brew cask install iterm2
   brew install postgresql
   brew install readline
